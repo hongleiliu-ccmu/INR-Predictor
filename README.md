@@ -7,5 +7,5 @@ This project is a multicenter retrospective cohort study that uses machine learn
 ## Link
 - **View Project**: [[Live Demo](https://xltx-gby.streamlit.app/)](https://xltx-gby.streamlit.app/)
 - **Screenshot**:
-  ![Screenshot of the project](screenshots/screenshot_1.png)
+  ![Screenshot of the project](screenshot/screenshot_1.png)
 
